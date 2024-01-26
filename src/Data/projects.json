@@ -1,0 +1,34 @@
+[
+    {
+      "title": "React Authentication using Stytch",
+      "imageSrc": "projects/project.png",
+      "description": "Stytch used for authentication and security requirements. Which has login and signup functionalities and data is stored in session.",
+      "skills": ["React", "Stytch"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/puja923/React-authentication-using-stytch"
+    },
+    {
+      "title": "Rapid API Harmony",
+      "imageSrc": "projects/project.png",
+      "description": "Yahoo Finance API used to fetch data from 4 endpoints and successfully shown on the website",
+      "skills": ["React", "Axios", "Fetch API"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/puja923/YahooFinanceAPI"
+    },
+    {
+      "title": "Meme Generator",
+      "imageSrc": "projects/project.png",
+      "description": "This is a random meme generator website which includes the use of various hooks and events in React",
+      "skills": ["React", "API", "Javscript"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/puja923/Meme_generator"
+    },
+    {
+      "title": "Firebase Chat App",
+      "imageSrc": "projects/project.png",
+      "description": "Used various libraries of firebase for authentication and cookies for storing data.",
+      "skills": ["React", "Firebase", "Javscript"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/puja923/FirebaseChatApp"
+    }
+  ]
